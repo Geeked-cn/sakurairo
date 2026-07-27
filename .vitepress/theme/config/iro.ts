@@ -51,6 +51,11 @@ export default {
         iconPkg: 'fluent_design',
         links: [
             {
+                icon: 'qq',
+                link: 'tencent://message/?site=qq&menu=yes&uin=1603913438',
+                name: 'QQ'
+            },
+            {
                 icon: 'github',
                 link: 'https://github.com/Suk-ldev',
                 name: 'GitHub'
