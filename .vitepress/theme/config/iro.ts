@@ -51,6 +51,11 @@ export default {
         iconPkg: 'fluent_design',
         links: [
             {
+                icon: 'wechat',
+                link: 'https://pay.imsuk.eu.org/contact',
+                name: 'Weixin'
+            },
+            {
                 icon: 'github',
                 link: 'https://github.com/Suk-ldev',
                 name: 'GitHub'
