@@ -9,8 +9,8 @@ import { Iro } from "./types.mts";
  * - features.cherryBlossom：是否开启樱花飘落动画
  * - features.cursor：鼠标指针样式，cat / dot / system
  */
-const randomWallpaperApi = 'https://api.imsuk.cn/RandomImg';
-const randomSignatureApi = 'https://api.imsuk.cn/hitokoto/index.php';
+const randomWallpaperApi = 'https://api.imsuk.cn/api/RandomImg';
+const randomSignatureApi = 'https://api.imsuk.cn/api/Hitokoto';
 
 export default {
     title: "天命之子",
