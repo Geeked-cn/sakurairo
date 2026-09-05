@@ -64,7 +64,7 @@ const switchIroBg = async(step) => {
 const signatureText = (iro.cover.signature ?? '').trim();
 const signatureDisplay = ref('');
 const signatureNoise = ref([]);
-const signatureApi = iro.cover.signatureApi ?? 'https://api.imsuk.cn/hitokoto/index.php';
+const signatureApi = iro.cover.signatureApi ?? 'https://api.imsuk.cn/api/Hitokoto';
 const signatureColors = [
     'rgb(110,64,170)',
     'rgb(150,61,179)',
