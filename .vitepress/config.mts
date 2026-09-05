@@ -7,6 +7,7 @@ import { normalizePath } from 'vite';
 const rootDir = normalizePath(process.cwd());
 
 export default defineConfigWithTheme({
+    base: '/sakurairo/',
     title: iro.title,
     titleTemplate: iro.titleTemplate,
     description: iro.description,
