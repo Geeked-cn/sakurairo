@@ -39,7 +39,7 @@ export default {
     nav: {
         icon: '/res/icon.png',
         links: [
-            { title: '博客', url: 'https://imsuk.cn', target: '_blank' },
+            { title: '博客', url: 'https://longten.dpdns.org', target: '_blank' },
         ]
     },
     search: {
@@ -57,12 +57,12 @@ export default {
             },
             {
                 icon: 'github',
-                link: 'https://github.com/Suk-ldev',
+                link: 'https://github.com/Geeked-cn',
                 name: 'GitHub'
             },
             {
                 icon: 'bilibili',
-                link: 'https://space.bilibili.com/1549763683',
+                link: 'https://space.bilibili.com/3537109885389592?spm_id_from=333.1007.0.0',
                 name: 'Bilibili'
             },
             {
@@ -72,22 +72,22 @@ export default {
             },
             {
                 icon: 'tw',
-                link: 'https://x.com/SukBlog21',
+                link: 'https://x.com/xho1738241',
                 name: 'X'
             },
             {
                 icon: 'zhihu',
-                link: 'https://www.zhihu.com/people/xu-ming-88-36',
+                link: 'https://www.zhihu.com/people/lldenchin',
                 name: 'Zhihu'
             },
             {
                 icon: 'tg',
-                link: 'https://t.me/Suk_2',
+                link: 'https://t.me/lkhdad',
                 name: 'telegram'
             },
             {
                 icon: 'mail',
-                link: 'mailto:Suk_blog@qq.com',
+                link: 'mailto:1586841885@qq.com',
                 name: 'E-mail'
             },
         ]
@@ -101,7 +101,7 @@ export default {
         themeText: 'Sakurairo',
         themeUrl: 'https://github.com/Suk-ldev/me_index',
         authorText: 'Suk Fuukei',
-        authorUrl: 'https://imsuk.cn',
+        authorUrl: 'https://longten.dpdns.org',
     },
     style: {
         themeSkin: '#8e78c6',
