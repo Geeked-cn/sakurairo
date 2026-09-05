@@ -20,7 +20,7 @@ export default {
     cover: {
         avatar: '/avatar.png',
         signature: '正在努力移植到 VitePress！',
-        signatureApi: 'https://api.imsuk.cn/hitokoto/index.php',
+        signatureApi: 'https://api.imsuk.cn/api/Hitokoto',
         background: {
             random: true,
             desktop: 'https://t.alcy.cc/fj/',
