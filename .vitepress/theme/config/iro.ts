@@ -51,11 +51,6 @@ export default {
         iconPkg: 'fluent_design',
         links: [
             {
-                icon: 'wechat',
-                link: 'https://pay.imsuk.eu.org/contact',
-                name: 'Weixin'
-            },
-            {
                 icon: 'github',
                 link: 'https://github.com/Geeked-cn',
                 name: 'GitHub'
@@ -64,11 +59,6 @@ export default {
                 icon: 'bilibili',
                 link: 'https://space.bilibili.com/3537109885389592?spm_id_from=333.1007.0.0',
                 name: 'Bilibili'
-            },
-            {
-                icon: 'dy',
-                link: 'https://www.douyin.com/user/MS4wLjABAAAAx2NtxCxp3eSxmZ4__vHHVUe5Niot1CXJdNlIuNiIIz6YhgE90VnWRP3ehD0Bhe3l',
-                name: 'Douyin'
             },
             {
                 icon: 'tw',
