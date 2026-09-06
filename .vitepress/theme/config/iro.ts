@@ -16,7 +16,7 @@ export default {
     title: "天命之子",
     titleTemplate: "Suk",
     description: "Suk的个人主页",
-    favicon: '/sakurairo/res/favicon.png',
+    favicon: '/res/favicon.png',
     home: {
         showContent: false,
         showPostList: false,
@@ -27,7 +27,7 @@ export default {
         cursor: 'dot',
     },
     cover: {
-        avatar: '/sakurairo/res/avatar.png',
+        avatar: '/res/avatar.png',
         signature: '',
         signatureApi: randomSignatureApi,
         background: {
@@ -37,7 +37,7 @@ export default {
         }
     },
     nav: {
-        icon: '/sakurairo/res/icon.png',
+        icon: '/res/icon.png',
         links: [
             { title: '博客', url: 'https://longten.dpdns.org', target: '_blank' },
         ]
