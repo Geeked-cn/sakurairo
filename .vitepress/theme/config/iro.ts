@@ -39,7 +39,7 @@ export default {
     nav: {
         icon: '/res/icon.png',
         links: [
-            { title: '博客', url: 'https://longten.dpdns.org', target: '_blank' },
+            { title: '博客', url: 'https://x.huaweinb.ccwu.cc', target: '_blank' },
         ]
     },
     search: {
@@ -91,7 +91,7 @@ export default {
         themeText: 'Sakurairo',
         themeUrl: 'https://github.com/Suk-ldev/me_index',
         authorText: 'Suk Fuukei',
-        authorUrl: 'https://longten.dpdns.org',
+        authorUrl: 'https://x.huaweinb.ccwu.cc',
     },
     style: {
         themeSkin: '#8e78c6',
